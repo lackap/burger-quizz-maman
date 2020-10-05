@@ -54,6 +54,17 @@
         "à un cours de gym ?",
         "autour d’une bonne bouteille rue des Maltotiers ?"
       ]
+    },
+    {
+      "image": "./img/aurore_boreale.jpg",
+      "label": "Lors de notre voyage en Norvège et Finlande, à l'arrivée au Cap Nord, nous avons attendu toute la soirée pour voir le fameux soleil de minuit. Comment nous sommes nous occupés?",
+      "correctAnswer": 2,
+      "answers": [
+        "Brigitte a fait du café pour tenir jusqu'à minuit (ces compagnons de voyage l'appelaient la cafetière)",
+        "Françoise a fait du thé pour se réchauffer, c'est qu'il faisait frisquet là-haut (ces compagnons de voyage l'appelaient la théière)",
+        "Hervé a fait une séance de magnétisme avec un pendule qui tournait (ou ne tournait pas)",
+        "Nous avons regardé Jean-Luc faire la vidange de Bluette"
+      ]
     }
   ],
   "selOuPoivre": [
@@ -64,7 +75,8 @@
       "label": "A été courtisée par un allemand?",
       "image": "./img/allemand.jpg"
     },
-    { "label": "A été condamnée à 5 reprise?", "image": "./img/prison.jpg" }
+    { "label": "A été condamnée à 5 reprise?", "image": "./img/prison.jpg" },
+    { "label": "Fais les meilleures recette?", "image": "./img/carbo.jpg" }
   ],
   "menu1": [
     {
@@ -194,7 +206,8 @@
     },
     { "label": "Une amie?", "image": "./img/amies.jpg" },
     { "label": "Une homonyme?", "image": "./img/macron.jpg" },
-    { "label": "Une recette burdino-méricaine?", "image": "./img/macron.jpg" }
+    { "label": "Une recette burdino-méricaine?", "image": "./img/macron.jpg" },
+    { "label": "Un héros de l’enfance?", "image": "./img/heros.jpg" }
   ],
   "addition2": [
     {
@@ -206,6 +219,11 @@
       "label": "Chanson 2",
       "video": "https://www.youtube.com/watch?v=26Nuj6dhte8",
       "answers": ["La mauvaise réputation"]
+    },
+    {
+      "label": "Chanson 3",
+      "video": "https://www.youtube.com/watch?v=7c3yryrO_UU&ab_channel=parisBbg",
+      "answers": ["Douce nuit"]
     },
     {
       "label": "Chanson 4",
