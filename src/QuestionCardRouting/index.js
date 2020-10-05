@@ -43,8 +43,8 @@ export default function QuestionCardRouting() {
 
   const hasNoPrev = index <= 0;
   const hasNoNext = index >= maxQuestions;
-
-  const question = questions[index];
+  const questionsSpecific = questions[dbName];
+  const question = questionsSpecific[index];
   return (
     <Card className={classes.root}>
       <CardMedia

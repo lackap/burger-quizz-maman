@@ -19,6 +19,8 @@ export default function BurgerDeLaMort() {
 
   if (error) return "Une erreur est survenue: " + error.message;
 
+  const questionsSpecific = question["burgerdelamort"];
+
   return (
     <>
       <ReactPlayer
@@ -29,7 +31,10 @@ export default function BurgerDeLaMort() {
 
       <Grid container className={classes.buttonsGrid}>
         <Grid item xs={12}>
-          <CheckboxList labels={question.answers} className={classes.root} />
+          <CheckboxList
+            labels={questionsSpecific.answers}
+            className={classes.root}
+          />
         </Grid>
         <Grid item xs={4}>
           <IconButton component={Link} color="inherit" to="/addition-init">

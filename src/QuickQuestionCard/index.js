@@ -43,7 +43,8 @@ export default function QuickQuestionCard() {
   const hasNoNext = index >= maxQuestions;
   const hasNoPrev = index <= 0;
 
-  const question = questions[index];
+  const questionsSpecific = questions[dbName];
+  const question = questionsSpecific[index];
   return (
     <Card className={classes.root}>
       {question.image && (
