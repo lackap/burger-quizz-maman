@@ -1,7 +1,7 @@
 {
   "nuggets": [
     {
-      "image": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/304091_10150451284477837_564061486_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=RvCI3OSa9WsAX_ZbsDd&_nc_ht=scontent-cdg2-1.xx&oh=2b4266d1460d2f0979d86d5765fd4bf9&oe=5F9B6595",
+      "image": "./img/pascal.jpg",
       "label": "Quel est mon premier souvenir avec maman (souvenir clair) ?",
       "correctAnswer": 3,
       "answers": [
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "image": "https://london.frenchmorning.com/wp-content/uploads/sites/10/2018/09/cine%CC%81ma.jpg",
+      "image": "./img/cinema.jpg",
       "label": "Lors de la projection de quel film de 1981 Brigitte a t elle quitté la salle au bout de 10 minutes alors qu’elle avait la compagnie de (Hervé, Jean-Luc, Françoise, Thierry):",
       "correctAnswer": 1,
       "answers": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "image": "https://i.pinimg.com/originals/b4/eb/09/b4eb092858171e81e26133fa5631bc07.jpg",
+      "image": "./img/grenouille.jpg",
       "label": "Qui avait mangé la tête de la grenouille en pâte d’amande de Brigitte lorsque Françoise lui offrit une autre grenouille pour se faire pardonner?",
       "correctAnswer": 1,
       "answers": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71JQDdwyFNL._AC_SY450_.jpg",
+      "image": "./img/carte.jpg",
       "label": "Quelle distance y avait-il à Cordon entre le camp des filles ou était maman et le camp des garçons ou était papa?",
       "correctAnswer": 2,
       "answers": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "image": "https://p6.storage.canalblog.com/60/52/1107970/112837992.jpg",
+      "image": "./img/bebe.jpg",
       "label": "Où Brigitte a-t-elle demandé à Maryvonne d’être la marraine de Pascal :",
       "correctAnswer": 0,
       "answers": [
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "image": "https://mobile-img.lpcdn.ca/lpca/924x/r3996/8c0c136c-75e2-11ea-b33c-02fe89184577.jpg",
+      "image": "./img/aurore_boreale.jpg",
       "label": "Lors de notre voyage en Norvège et Finlande, à l'arrivée au Cap Nord, nous avons attendu toute la soirée pour voir le fameux soleil de minuit. Comment nous sommes nous occupés?",
       "correctAnswer": 2,
       "answers": [
@@ -70,32 +70,32 @@
   "selOuPoivre": [
     {
       "label": "Est née en 57?",
-      "image": "https://storage.googleapis.com/thepeoplehistory/1957-fashion.jpg"
+      "image": "./img/1957.jpg"
     },
     {
       "label": "Aime bien les petits chats?",
-      "image": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/a/0/f/a0fc73919d_50166390_chaton.jpg"
+      "image": "chaton.jpg"
     },
     {
       "label": "Est connue pour chanter?",
-      "image": "https://cdn.radiofrance.fr/s3/cruiser-production/2015/08/2caad77b-8adf-461c-a88f-58239b248c7a/600x337_bianca_castafiore.jpg"
+      "image": "./img/castafiore.jpg"
     },
     {
       "label": "A été courtisée par un allemand?",
-      "image": "https://footage.framepool.com/shotimg/qf/757876723-moustache-individualite-supporter-allemand-reflechir.jpg"
+      "image": "./img/allemand.jpg"
     },
     {
       "label": "A été condamnée à 5 reprise?",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tZsz3Gf5L._AC_.jpg"
+      "image": "./img/prison.jpg"
     },
     {
       "label": "Fais les meilleures recette?",
-      "image": "https://gourmandiz.dhnet.be/app/uploads/2018/03/carbonara-e1521461363147.jpg"
+      "image": "./img/carbo.jpg"
     }
   ],
   "menu1": [
     {
-      "image": "https://cache.magicmaman.com/data/photo/w1000_c18/18s/1ejanvier2017.jpg",
+      "image": "./img/calendrier.jpg",
       "label": "Que faisais Brigitte le 1er janvier 2017 à14h27?",
       "correctAnswer": 0,
       "answers": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "image": "https://lh3.googleusercontent.com/proxy/s2ZEObQlagWDAbP_kVmdr4p1kay8kp2l9SPTRI-NUF0IbwgA4ezPEgydmZVNkF9aDSpM3JfxAk1wQ0q23gRkLVfzqEOcWUXCM-fm_tz9nhq3Oe0",
+      "image": "./img/scout.png",
       "label": "Lorsque Hervé a annoncé au groupe Scout son prochain mariage, qu'à répondu Totoche ? :",
       "correctAnswer": 3,
       "answers": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "image": "https://www.france-pittoresque.com/IMG/jpg/Sainte-Radegonde.jpg",
+      "image": "./img/radegonde.jpg",
       "label": "Pour quelle sainte, Brigitte a-t-elle dépassé les bornes du raisonnable, aux yeux d'Hervé son mari, et même celles de la propriété privée, afin de faire la plus belle photo possible de l'estuaire de la Gironde sur la rive droite?",
       "correctAnswer": 0,
       "answers": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "image": "https://uploads.lebonbon.fr/source/2019/january/tvszsuzcm1_2_675.jpg",
+      "image": "./img/sante.jpg",
       "label": "quel était le millésime du champagne Moet et Chandon Grand Vintage servi à ton intronisation en Champagne Ardennes",
       "correctAnswer": 2,
       "answers": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "image": "https://lh3.googleusercontent.com/proxy/TA_z9fX9d-RJBTtqJ21lbARwAFKxurBW3D5aol2jUTEIbwKLmUi5V8Sjr2iSJr8VRC9qbmhOGc7-ABZmYqWJFushTY0_SHco2VakdqKnEYlpTbiN7G7ouU0H1TnhoXQ",
+      "image": "./img/amphi.jpg",
       "label": "Pourquoi Brigitte et moi sommes allées un samedi matin en fin de cours d'économie à la Fac d'Orléans-La Source, habillées de knickers, chaussures de montagne et coiffées d'un chapeau pieds de poule à la Sherlock Holmes",
       "correctAnswer": 3,
       "answers": [
@@ -152,46 +152,46 @@
   ],
   "menu2": [
     {
-      "image": "https://static.lpnt.fr/images/2020/02/23/20079626lpw-20081706-article-jpg_6929597_1250x625.jpg",
+      "image": "./img/pignon.jpg",
       "label": "Je suis une citation célèbre, prononcée par Jacques Villeret dans un film de Francis Weber. Le film, mettant en scène un huis clos dans un appartement parisien, relate l’organisation de diner spéciaux le mercredi soir. Citation prononcée par Thierry Lhermitte lors d’un quiproquo avec Jacques Villeret, je fais référence au nom d’une ancienne amante du personnage de Thierry Lhermitte. Prise de conscience de Thierry Lhermitte sur le fait qu’il n’a pas de soeur et que par conséquent Jacques Villeret a appelé une dame nommée Sasseur, je suis…",
       "answers": ["Il a appelé Marlène"]
     },
     {
-      "image": "https://i.ytimg.com/vi/XEsfpRrfXf4/hqdefault.jpg",
+      "image": "./img/mime.jpg",
       "label": "Mime",
       "answers": ["Ne pars pas les mains vide"]
     },
     {
-      "image": "/4freres.png",
+      "image": "./img/4freres.png",
       "label": "Rébus",
       "answers": ["Les 4 frères méric"]
     },
     {
-      "image": "https://motsbleus.pages-informatique.com/jeudupendufb.jpg",
+      "image": "./img/pendu.jpg",
       "label": "Pendu",
       "answers": ["Elle est gentille Lauranne"]
     },
     {
-      "image": "https://s.rfi.fr/media/display/3519a02c-1124-11ea-9a1a-005056a99247/w:1280/p:16x9/000_app2000102673666_0.webp",
+      "image": "./img/degaulle.png",
       "label": "serez vous capable de nous montrer le seul et unique mime de maman lors d’un timesup",
       "answers": []
     }
   ],
   "menu3": [
     {
-      "image": "https://www.sortiraparis.com/images/80/66131/350528-le-musee-du-louvre-coeur-artistique-et-touristique-de-la-capitale.jpg",
+      "image": "./img/pyramide.jpg",
       "label": "Le Musée du Louvre n'a jamais été destiné à être un musée, mais a quoi devait-il servir?",
       "correctAnswer": 2,
       "answers": ["D’hopital", "De gare", "De forteresse", "De palais"]
     },
     {
-      "image": "https://ekladata.com/VOiYfEF_2Pijx3iwyVd0EpnZFd0.jpg",
+      "image": "./img/course.jpg",
       "label": "Le musée est immense certes, mais combien de jour cela prendrait-il pour le visiter en passant 30s dans chaque salle?",
       "correctAnswer": 2,
       "answers": ["2 jours", "10 jours", "100 jours", "200 jours"]
     },
     {
-      "image": "https://www.lesdecouvreurs.com/wp-content/uploads/2019/09/Vol-de-la-joconde-unes-de-presse.jpeg",
+      "image": "./img/joconde.jpg",
       "label": "Qui a volé en 1911 la Joconde?",
       "correctAnswer": 0,
       "answers": [
@@ -202,13 +202,13 @@
       ]
     },
     {
-      "image": "https://lh3.googleusercontent.com/proxy/AQUkZ8UL_LggcedPiw-_MfkbbrgaJgqQMMHCDmL4mAarCC1XyIq1KBAZ2GxtUkZp9xBYxkaCSIsbJI4KDVVQWiFIOGrYSketG3x5bm6JhL2tU9TLGtFm9hwEhbhFWC97cbqOEbFt5m5xKw",
+      "image": "./img/photo.png",
       "label": "Quel musée fut le premier a avoir une section dédiée à la photographie?",
       "correctAnswer": 3,
       "answers": ["Rodin", "Le Louvre", "Grand Palais", "Orsay"]
     },
     {
-      "image": "https://www.sortiraparis.com/images/58/2628/68437-ouverture-exceptionnelle-et-sans-reservation-pour-une-semaine-du-musee-des-arts-forains.jpg",
+      "image": "./img/arts_forains.jpg",
       "label": "De quel musée vient cette photo?",
       "answers": ["Musée des arts forains"]
     }
@@ -216,27 +216,27 @@
   "addition": [
     {
       "label": "Un prénom?",
-      "image": "https://www.les-supers-parents.com/wp-content/uploads/2012/08/prnomsdefilles.jpg"
+      "image": "./img/prenoms.jpg"
     },
     {
       "label": "Une ville ou vit un de ses fils?",
-      "image": "https://duneuf.fr/wp-content/uploads/2018/08/bordeaux.jpg"
+      "image": "./img/bordeaux.jpg"
     },
     {
       "label": "Une amie?",
-      "image": "https://i.pinimg.com/originals/2d/08/3d/2d083d00105e9d69eb3a27688f476ee2.jpg"
+      "image": "./img/amies.jpg"
     },
     {
       "label": "Une homonyme?",
-      "image": "https://lespetitestetes.files.wordpress.com/2017/05/brigittemacron.jpg"
+      "image": "./img/macron.jpg"
     },
     {
       "label": "Une recette burdino-méricaine?",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tZsz3Gf5L._AC_.jpg"
+      "image": "./img/macron.jpg"
     },
     {
       "label": "Un héros de l’enfance?",
-      "image": "https://www.madeinasia.be/wp-content/uploads/sites/62/2019/08/BGO-Une-1024x536.jpg"
+      "image": "./img/heros.jpg"
     }
   ],
   "addition2": [
@@ -272,7 +272,6 @@
     }
   ],
   "burgerdelamort": {
-    "image": "https://medias.lenodal.com/medias/photos/original/2018/tmc-j6-burgerquiz-lnl.jpg",
     "label": "",
     "correctAnswer": 0,
     "answers": [
